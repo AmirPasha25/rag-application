@@ -1,0 +1,7 @@
+from setuptools import setup, find_packages
+
+
+setup(name = "p10-rag-application",
+      version = "0.0.1",
+      packages=find_packages()
+)
