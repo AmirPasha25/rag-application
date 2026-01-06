@@ -169,4 +169,21 @@ Encapsulates OpenAI models using **LangChain**.
 
 ---
 
-## 🚀 Getting Started
+📈 Why This Project Matters
+
+✔ True end-to-end RAG
+✔ Enterprise-grade modularity
+✔ Clean prompt engineering
+✔ FAISS-powered retrieval
+✔ Easily extensible to APIs, agents, and UIs
+
+This repository reflects how RAG systems are actually built in industry.
+
+🔮 Future Enhancements
+	•	Streaming LLM responses
+	•	Hybrid search (BM25 + vectors)
+	•	RAG evaluation metrics
+	•	Multi-document sources
+	•	FastAPI / REST deployment
+	•	Chat UI integration
+	•	Agentic RAG workflows
