@@ -170,9 +170,3 @@ Encapsulates OpenAI models using **LangChain**.
 ---
 
 ## 🚀 Getting Started
-
-### 1️⃣ Create Virtual Environment
-```bash
-python -m venv venv
-source venv/bin/activate
-
