@@ -176,11 +176,3 @@ Encapsulates OpenAI models using **LangChain**.
 python -m venv venv
 source venv/bin/activate
 
-2️⃣ Install Dependencies
-pip install -r requirements.txt
-
-
-python data_ingestion.py
-python vector_store.py
-python llm_model.py
-
